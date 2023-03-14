@@ -6,3 +6,8 @@ The user enters the value of 'n' ('n' must be an odd number).
 
 The program generates an nxn magic square for the given value of 'n'.
 In a related project, we have created a program to create a magic square with a front-end (Technologies: Flask, Python).
+
+# Execution
+To run the program, do the following:
+
+$ python app.py
